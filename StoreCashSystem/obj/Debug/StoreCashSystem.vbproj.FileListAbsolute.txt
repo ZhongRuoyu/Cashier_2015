@@ -1,0 +1,15 @@
+c:\users\zhong\documents\visual studio 2015\Projects\StoreCashSystem\StoreCashSystem\bin\Debug\StoreCashSystem.exe.config
+c:\users\zhong\documents\visual studio 2015\Projects\StoreCashSystem\StoreCashSystem\bin\Debug\StoreCashSystem.exe
+c:\users\zhong\documents\visual studio 2015\Projects\StoreCashSystem\StoreCashSystem\bin\Debug\StoreCashSystem.pdb
+c:\users\zhong\documents\visual studio 2015\Projects\StoreCashSystem\StoreCashSystem\bin\Debug\StoreCashSystem.xml
+c:\users\zhong\documents\visual studio 2015\Projects\StoreCashSystem\StoreCashSystem\obj\Debug\StoreCashSystem.vbprojResolveAssemblyReference.cache
+c:\users\zhong\documents\visual studio 2015\Projects\StoreCashSystem\StoreCashSystem\obj\Debug\StoreCashSystem.Form1.resources
+c:\users\zhong\documents\visual studio 2015\Projects\StoreCashSystem\StoreCashSystem\obj\Debug\StoreCashSystem.Resources.resources
+c:\users\zhong\documents\visual studio 2015\Projects\StoreCashSystem\StoreCashSystem\obj\Debug\StoreCashSystem.vbproj.GenerateResource.Cache
+c:\users\zhong\documents\visual studio 2015\Projects\StoreCashSystem\StoreCashSystem\obj\Debug\StoreCashSystem.exe
+c:\users\zhong\documents\visual studio 2015\Projects\StoreCashSystem\StoreCashSystem\obj\Debug\StoreCashSystem.xml
+c:\users\zhong\documents\visual studio 2015\Projects\StoreCashSystem\StoreCashSystem\obj\Debug\StoreCashSystem.pdb
+C:\Users\zhong\documents\visual studio 2015\Projects\StoreCashSystem\StoreCashSystem\bin\Debug\zh-CN\StoreCashSystem.resources.dll
+C:\Users\zhong\documents\visual studio 2015\Projects\StoreCashSystem\StoreCashSystem\obj\Debug\StoreCashSystem.Dialog1.resources
+C:\Users\zhong\documents\visual studio 2015\Projects\StoreCashSystem\StoreCashSystem\obj\Debug\StoreCashSystem.Form1.zh-CN.resources
+C:\Users\zhong\documents\visual studio 2015\Projects\StoreCashSystem\StoreCashSystem\obj\Debug\zh-CN\StoreCashSystem.resources.dll
